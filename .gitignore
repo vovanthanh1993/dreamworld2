@@ -1,0 +1,22 @@
+# Cocos2d-x
+*.log
+*.sublime-workspace
+*.sublime-project
+*.vscode
+*.idea
+*.DS_Store
+
+# Build directories
+/build/
+**/CMakeFiles
+**/CMakeCache.txt
+**/CMakeScripts/
+**/cmake_install.cmake
+
+# Caches
+/.idea/
+/.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
